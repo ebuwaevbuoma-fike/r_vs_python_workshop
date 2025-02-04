@@ -31,6 +31,7 @@ Citi Bike is the nation's largest bike share program, with 10,000 bikes and 600 
 This public dataset is hosted in Google BigQuery and is included in BigQuery's 1TB/mo of free tier processing. This means that each user receives 1TB of free BigQuery processing every month, which can be used to run queries on this public dataset. Watch this short video to learn how to get started quickly using BigQuery to access public datasets. [What is BigQuery](https://cloud.google.com/bigquery/docs/introduction)
 
 **Bonus Content, post-workshop**
+
 Do you have an IDE (e.g., VS Code), Conda and Python installed?
 1. **Yes**: Clone the repository, then follow Step 4 onwards under the "Optional Post-Workshop Setup: Python Environment for Data Analysis" section of the notebook.
 
