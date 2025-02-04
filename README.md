@@ -21,7 +21,8 @@ This repository contains materials for a workshop comparing and contrasting the 
     * Data files used in the workshop.
     * Other relevant resources (e.g., documentation, tutorials).
 
-**Getting Started :**
+**Getting Started**
+
 Follow the steps under the "Installations and Setup for Google Colab" section of the notebook.
 
 **Data Source**
