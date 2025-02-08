@@ -24,6 +24,7 @@ This repository contains materials for a workshop comparing and contrasting the 
 **Getting Started**
 
 Follow the steps under the "Installations and Setup for Google Colab" section of the notebook.
+Link: (https://colab.research.google.com/drive/1jGjXFdR8A2UQhZGCNxwvmBeLo2o_GaTX?usp=sharing)
 
 **Data Source**
 
